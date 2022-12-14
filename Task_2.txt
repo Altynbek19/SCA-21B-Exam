@@ -1,0 +1,1 @@
+The git revert command is a forward-facing operation for safely reverting changes. To roll back changes, the command does not remove commits or parent elements from the history, but creates a new commit with the cancellation of the necessary actions.
